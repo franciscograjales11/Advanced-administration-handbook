@@ -1,3 +1,4 @@
+![Screenshot_20240614-032233](https://github.com/WordPress/Advanced-administration-handbook/assets/101159567/b869aadc-2243-4ec5-8cd8-9aa118c455cf)
 # Security
 The goal of the page is to inform users who manage a WordPress site about general security best practices both in terms of environment level items, such as file permissions, as well as application-level items, such as setting up proper user roles, so they have a better foundation for security than setting up WordPress somewhere with no additional configuration.
 
